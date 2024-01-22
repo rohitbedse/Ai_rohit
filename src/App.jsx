@@ -61,7 +61,7 @@ function App() {
 
             <span className="self-center text-sm font-semibold whitespace-nowrap">Made with 💓 by @rohitbedse_</span>
           </a>
-          <a href='https://github.com/rohitbedse/Ai_image.gitgit ' target='_blank' rel="noreferrer" className='bg-gray-100 p-2 rounded text-black flex justify-center items-center gap-1'> <span className='text-lg'><FaGithub /></span></a>
+          <a href='https://github.com/rohitbedse/Ai_image.git' target='_blank' rel="noreferrer" className='bg-gray-100 p-2 rounded text-black flex justify-center items-center gap-1'> <span className='text-lg'><FaGithub /></span></a>
         </div>
       </nav>
 
