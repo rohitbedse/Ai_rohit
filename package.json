@@ -1,9 +1,12 @@
 {
+  "homepage": "https://rohitbedse.github.io/Ai_rohit",
   "name": "text-to-image",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "start": "vite --host",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
